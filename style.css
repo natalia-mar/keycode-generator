@@ -1,0 +1,24 @@
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1591259932860-d1cbc0b81ec1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    justify-content: center;
+    align-items: flex-end;
+    padding-top: 550px;
+    padding-left: 70vw;
+}
+
+
+.key-code {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    border: 2px rgb(80, 81, 92);
+    border-style: solid;
+    padding: 20px;
+}
